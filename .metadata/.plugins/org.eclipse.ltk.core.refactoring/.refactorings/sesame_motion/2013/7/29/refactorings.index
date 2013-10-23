@@ -1,0 +1,16 @@
+1374278313835	Rename type 'BvhMocap10Nodes'
+1374278321724	Move compilation unit
+1374278355837	Rename type 'BvhMocap10NodeFileWriter'
+1374278360552	Move compilation unit
+1374278374231	Rename type 'BvhMocapToBvhMocap10NodesConverter'
+1374278392914	Move package
+1374278420461	Move package
+1374278564776	Delete element
+1374278613057	Move compilation unit
+1374289229631	Move compilation unit
+1374298452800	Move compilation unit
+1374329078804	Rename method 'addToBvhFileNames'
+1374338472129	Rename method 'addslashAtTheBack'
+1374340775352	Rename field 'averages'
+1374364398510	Rename field 'sum'
+1374364408040	Rename local variable 'average'

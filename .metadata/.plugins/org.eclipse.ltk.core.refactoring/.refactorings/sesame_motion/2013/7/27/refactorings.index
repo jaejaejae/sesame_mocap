@@ -1,0 +1,14 @@
+1372722225987	Rename type 'BVHNode'
+1372722232637	Rename type 'BVHMocap'
+1372722252410	Rename type 'BVHViewer'
+1372722264696	Rename type 'BVHParserTest'
+1372722272707	Rename type 'BVHFileParser'
+1372722278691	Rename type 'BVHconst'
+1372722284279	Rename type 'Bvhconst'
+1372722723556	Rename package 'sesame.bvh'
+1372722736937	Move compilation units
+1372722742711	Delete element
+1372723987336	Rename package 'sesame.mocapFeature'
+1372724006949	Rename package 'sesame.mocapFeature.constant'
+1372767821020	Rename type 'BvhMocapTenNodes'
+1372859650424	Rename method 'getNodeId'

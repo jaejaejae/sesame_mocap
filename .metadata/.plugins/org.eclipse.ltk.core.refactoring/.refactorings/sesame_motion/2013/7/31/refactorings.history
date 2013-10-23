@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;mocap10Nodes&apos; from expression &apos;this&apos;&#x0D;&#x0A;- Original project: &apos;sesame_motion&apos;&#x0D;&#x0A;- Variable name: &apos;mocap10Nodes&apos;&#x0D;&#x0A;- Destination method: &apos;sesame.mocap.Mocap10Nodes.Mocap10Nodes()&apos;&#x0D;&#x0A;- Variable expression: &apos;this&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;mocap10Nodes&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;sesame.mocap{Mocap10Nodes.java" name="mocap10Nodes" replace="true" selection="339 0" stamp="1375181590081" version="1.0"/>
+</session>

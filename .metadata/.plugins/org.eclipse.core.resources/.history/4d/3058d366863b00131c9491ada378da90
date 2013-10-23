@@ -1,0 +1,13 @@
+package sesame.mocap.model;
+
+import sesame.mocap.Mocap10Nodes;
+
+public class LibSvmModel implements Classifiable{
+
+	@Override
+	public double evaluate(MocapFeature mocap) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

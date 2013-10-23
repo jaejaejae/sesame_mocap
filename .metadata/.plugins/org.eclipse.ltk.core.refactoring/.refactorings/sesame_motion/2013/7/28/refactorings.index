@@ -1,0 +1,13 @@
+1373158488195	Rename method 'createStringBuffer'
+1373159009024	Rename method 'createHeaderString'
+1373159013350	Rename method 'createCoordinatesString'
+1373159102885	Rename local variable 'stringBuffer'
+1373159880450	Rename type 'BvhMocapFileWriter'
+1373159887851	Rename type 'BvhMocap'
+1373159892854	Rename field 'bvhMocap'
+1373159902926	Rename local variable 'bvhMocap'
+1373159906461	Rename local variable 'bvhMocap'
+1373160311076	Move compilation unit
+1373160431880	Rename type 'BvhMocap10Node'
+1373160954712	Rename method 'getFPS'
+1373160974305	Rename local variable 'd'

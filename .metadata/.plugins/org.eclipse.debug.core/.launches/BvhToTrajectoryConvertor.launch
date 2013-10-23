@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/sesame_motion_bvh_reader/src/sesame/mocap/bvh/app/BvhToTrajectoryConvertor.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sesame.mocap.bvh.app.BvhToTrajectoryConvertor"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-n -r180 F:\sesame_intern\_motion_database\CMU_BVH F:\motion_output3"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="sesame_motion_bvh_reader"/>
+</launchConfiguration>
